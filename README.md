@@ -17,7 +17,7 @@ A real-time weather monitoring dashboard built using Streamlit and the Weatherst
 - Libraries: requests, matplotlib 📚
 
   🖼 Screenshots
-  INTERFACE:C:\Users\dasar\Downloads\html jpg images\Pictures\Screenshots
+  INTERFACE:https://C:\Users\dasar\Downloads\html jpg images\Pictures\Screenshots
 
 
 🚀 Future Plans
