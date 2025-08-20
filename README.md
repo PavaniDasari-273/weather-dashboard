@@ -16,6 +16,9 @@ A real-time weather monitoring dashboard built using Streamlit and the Weatherst
 - API: Weatherstack API 🌞
 - Libraries: requests, matplotlib 📚
 
+  🖼 Screenshots
+  INTERFACE:C:\Users\dasar\Downloads\html jpg images\Pictures\Screenshots
+
 
 🚀 Future Plans
 - Implement user reviews and ratings for weather forecasts 🌟
