@@ -20,7 +20,7 @@ A real-time weather monitoring dashboard built using Streamlit and the Weatherst
 
   ## screen shots
   **CURRENT WEATHER**:![image alt](https://github.com/PavaniDasari-273/weather-dashboard/blob/870c659eadf100ece32149e175b96e645c145095/Screenshot%20(3).png)
-  ** GRAPHICAL REPRESENTATION**:![img url](https://github.com/PavaniDasari-273/weather-dashboard/blob/7b36fd7d5394a85cce3237ff85860d54e6ec2eb0/Screenshot%20(4).png)
+  **GRAPHICAL REPRESENTATION**:![img url](https://github.com/PavaniDasari-273/weather-dashboard/blob/7b36fd7d5394a85cce3237ff85860d54e6ec2eb0/Screenshot%20(4).png)
 
 
 
