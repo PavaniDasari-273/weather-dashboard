@@ -30,7 +30,7 @@ A real-time weather monitoring dashboard built using Streamlit and the Weatherst
 - *Vulnerability reporting*: Report issues on GitHub repository
 
 
-**INTERFACE**:![image alt](https://github.com/PavaniDasari-273/weather-dashboard/blob/be122d1809bbae218e570946e21557090cb85fc5/Screenshot%20(2).png)
+
 
 🎯 Features
 - ✅ Real-time Weather Data: Fetches current weather conditions from the Weatherstack API ⏱
