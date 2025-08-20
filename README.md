@@ -4,7 +4,8 @@
 
 📌 Overview
 A real-time weather monitoring dashboard built using Streamlit and the Weatherstack API. This dashboard provides current weather conditions, temperature trends, and historical weather data for locations worldwide 🌍.
-** Interface:![image alt](https://github.com/PavaniDasari-273/weather-dashboard/blob/be122d1809bbae218e570946e21557090cb85fc5/Screenshot%20(2).png)
+
+**INTERFACE**:![image alt](https://github.com/PavaniDasari-273/weather-dashboard/blob/be122d1809bbae218e570946e21557090cb85fc5/Screenshot%20(2).png)
 
 🎯 Features
 - ✅ Real-time Weather Data: Fetches current weather conditions from the Weatherstack API ⏱
@@ -18,7 +19,8 @@ A real-time weather monitoring dashboard built using Streamlit and the Weatherst
 - Libraries: requests, matplotlib 📚
 
   ## screen shots
-  **current weather:![image alt](https://github.com/PavaniDasari-273/weather-dashboard/blob/870c659eadf100ece32149e175b96e645c145095/Screenshot%20(3).png)
+  **CURRENT WEATHER**:![image alt](https://github.com/PavaniDasari-273/weather-dashboard/blob/870c659eadf100ece32149e175b96e645c145095/Screenshot%20(3).png)
+  ** GRAPHICAL REPRESENTATION**:![img url](https://github.com/PavaniDasari-273/weather-dashboard/blob/7b36fd7d5394a85cce3237ff85860d54e6ec2eb0/Screenshot%20(4).png)
 
 
 
